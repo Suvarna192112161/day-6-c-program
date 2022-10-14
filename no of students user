@@ -1,0 +1,42 @@
+#include<stdio.h>
+int main()
+{
+	int a,b,c,e;
+	printf("enter total number of users= ");
+	scanf("%d",&a);
+	printf("enter the staff users= ");
+	scanf("%d",&b);
+	if(a>0){
+	c=b/3;
+	e=a-b-c;
+	printf("the student users are= %d",e);}
+	else
+	{
+		printf("invalid input");
+	}
+}
+
+TEST  CASE1
+enter total number of users= 0
+enter the staff users= 0
+invalid input
+
+TEST  CASE2
+enter total number of users= -143
+enter the staff users= 0
+invalid input
+
+TEST CASE3
+enter total number of users= 1026
+enter the staff users= 1026
+the student users are= -342
+
+TEST CASE4
+enter total number of users= 450
+enter the staff users= 540
+the student users are= -270
+
+TEST CASE5
+enter total number of users= 600
+enter the staff users= 450
+the student users are= 0
