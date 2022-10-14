@@ -1,0 +1,230 @@
+#include<stdio.h>
+int main()
+{
+	float e,f,g;
+	printf("enter the number= ");
+	scanf("%f",&e);
+	f=e*e;
+	g=e*e*e;
+	printf("the square of number is= %f\n",f);
+	printf("the triple of number is= %f\n",g);
+}
+
+TEST CASES
+enter the number= 12
+the square of number is= 144.000000
+the triple of number is= 1728.000000
+
+enter the number= 0
+the square of number is= 0.000000
+the triple of number is= 0.000000
+
+enter the number= -0.5
+the square of number is= 0.250000
+the triple of number is= -0.125000
+
+enter the number= 14.25
+the square of number is= 203.062500
+the triple of number is= 2893.640625
+
+enter the number= -296
+the square of number is= 87616.000000
+the triple of number is= -25934336.000000
+Footer
+#include<stdio.h>
+int main()
+{
+	float e,f,g;
+	printf("enter the number= ");
+	scanf("%f",&e);
+	f=e*e;
+	g=e*e*e;
+	printf("the square of number is= %f\n",f);
+	printf("the triple of number is= %f\n",g);
+}
+
+TEST CASES
+enter the number= 12
+the square of number is= 144.000000
+the triple of number is= 1728.000000
+
+enter the number= 0
+the square of number is= 0.000000
+the triple of number is= 0.000000
+
+enter the number= -0.5
+the square of number is= 0.250000
+the triple of number is= -0.125000
+
+enter the number= 14.25
+the square of number is= 203.062500
+the triple of number is= 2893.640625
+
+enter the number= -296
+the square of number is= 87616.000000
+the triple of number is= -25934336.000000
+Footer
+#include<stdio.h>
+int main()
+{
+	float e,f,g;
+	printf("enter the number= ");
+	scanf("%f",&e);
+	f=e*e;
+	g=e*e*e;
+	printf("the square of number is= %f\n",f);
+	printf("the triple of number is= %f\n",g);
+}
+
+TEST CASES
+enter the number= 12
+the square of number is= 144.000000
+the triple of number is= 1728.000000
+
+enter the number= 0
+the square of number is= 0.000000
+the triple of number is= 0.000000
+
+enter the number= -0.5
+the square of number is= 0.250000
+the triple of number is= -0.125000
+
+enter the number= 14.25
+the square of number is= 203.062500
+the triple of number is= 2893.640625
+
+enter the number= -296
+the square of number is= 87616.000000
+the triple of number is= -25934336.000000
+Footer
+#include<stdio.h>
+int main()
+{
+	float e,f,g;
+	printf("enter the number= ");
+	scanf("%f",&e);
+	f=e*e;
+	g=e*e*e;
+	printf("the square of number is= %f\n",f);
+	printf("the triple of number is= %f\n",g);
+}
+
+TEST CASES
+enter the number= 12
+the square of number is= 144.000000
+the triple of number is= 1728.000000
+
+enter the number= 0
+the square of number is= 0.000000
+the triple of number is= 0.000000
+
+enter the number= -0.5
+the square of number is= 0.250000
+the triple of number is= -0.125000
+
+enter the number= 14.25
+the square of number is= 203.062500
+the triple of number is= 2893.640625
+
+enter the number= -296
+the square of number is= 87616.000000
+the triple of number is= -25934336.000000
+Footer
+#include<stdio.h>
+int main()
+{
+	float e,f,g;
+	printf("enter the number= ");
+	scanf("%f",&e);
+	f=e*e;
+	g=e*e*e;
+	printf("the square of number is= %f\n",f);
+	printf("the triple of number is= %f\n",g);
+}
+
+TEST CASES
+enter the number= 12
+the square of number is= 144.000000
+the triple of number is= 1728.000000
+
+enter the number= 0
+the square of number is= 0.000000
+the triple of number is= 0.000000
+
+enter the number= -0.5
+the square of number is= 0.250000
+the triple of number is= -0.125000
+
+enter the number= 14.25
+the square of number is= 203.062500
+the triple of number is= 2893.640625
+
+enter the number= -296
+the square of number is= 87616.000000
+the triple of number is= -25934336.000000
+Footer
+#include<stdio.h>
+int main()
+{
+	float e,f,g;
+	printf("enter the number= ");
+	scanf("%f",&e);
+	f=e*e;
+	g=e*e*e;
+	printf("the square of number is= %f\n",f);
+	printf("the triple of number is= %f\n",g);
+}
+
+TEST CASES
+enter the number= 12
+the square of number is= 144.000000
+the triple of number is= 1728.000000
+
+enter the number= 0
+the square of number is= 0.000000
+the triple of number is= 0.000000
+
+enter the number= -0.5
+the square of number is= 0.250000
+the triple of number is= -0.125000
+
+enter the number= 14.25
+the square of number is= 203.062500
+the triple of number is= 2893.640625
+
+enter the number= -296
+the square of number is= 87616.000000
+the triple of number is= -25934336.000000
+Footer
+#include<stdio.h>
+int main()
+{
+	float e,f,g;
+	printf("enter the number= ");
+	scanf("%f",&e);
+	f=e*e;
+	g=e*e*e;
+	printf("the square of number is= %f\n",f);
+	printf("the triple of number is= %f\n",g);
+}
+
+TEST CASES
+enter the number= 12
+the square of number is= 144.000000
+the triple of number is= 1728.000000
+
+enter the number= 0
+the square of number is= 0.000000
+the triple of number is= 0.000000
+
+enter the number= -0.5
+the square of number is= 0.250000
+the triple of number is= -0.125000
+
+enter the number= 14.25
+the square of number is= 203.062500
+the triple of number is= 2893.640625
+
+enter the number= -296
+the square of number is= 87616.000000
+the triple of number is= -25934336.000000
